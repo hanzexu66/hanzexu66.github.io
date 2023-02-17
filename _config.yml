@@ -103,6 +103,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/hanzexu66/hanzexu66.github.io
+  repo: https://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@github.com/hanzexu66/hanzexu66.github.io
   # example, https://github.com/hanzexu66/hanzexu66.github.io
-  branch: gh-pages
+  branch: master
+  token: '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'
